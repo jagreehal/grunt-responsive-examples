@@ -1,0 +1,32 @@
+{
+  "name": "grunt-responsive-examples",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jagreehal/grunt-responsive-examples.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/jagreehal/grunt-responsive-examples/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.2",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-autoprefixer": "~0.6.5",
+    "grunt-contrib-less": "~0.9.0",
+    "grunt-newer": "~0.6.1",
+    "grunt-spritesmith": "~1.21.2",
+    "grunt-responsive-images": "~0.1.1",
+    "grunt-image-embed": "~0.3.1",
+    "grunt-grunticon": "~1.0.0-beta.0",
+  }
+}

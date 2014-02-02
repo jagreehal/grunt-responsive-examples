@@ -1,0 +1,30 @@
+.icon-bubble {
+  background-image: url(images/bubble.png);
+  width: 32px;
+  height: 32px;
+}
+.icon-cart {
+  background-image: url(images/cart.png);
+  width: 32px;
+  height: 32px;
+}
+.icon-gift {
+  background-image: url(images/gift.png);
+  width: 32px;
+  height: 32px;
+}
+.icon-heart {
+  background-image: url(images/heart.png);
+  width: 32px;
+  height: 32px;
+}
+.icon-heart2 {
+  background-image: url(images/heart2.png);
+  width: 32px;
+  height: 32px;
+}
+.icon-lightning {
+  background-image: url(images/lightning.png);
+  width: 32px;
+  height: 32px;
+}

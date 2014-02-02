@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Responsive Images (PictureFill)</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<h1>Responsive Images (PictureFill)</h1>
+<figure class="image">
+    <span data-picture data-alt="Supergirl T-shirt">
+        <span data-src="images/P1-main1-small.jpg"></span>
+        <span data-src="images/P1-main1-medium.jpg"
+              data-media="(min-width: 768px)"></span>
+        <span data-src="images/P1-main1-large.jpg" data-media="(min-width: 960px)"></span>
+        <noscript><img src="images/P1-main1-small.jpg" alt="Supergirl T-shirt"></noscript>
+    </span>
+</figure>
+<script src="js/picturefill.js"></script>
+</body>
+</html>
